@@ -1,0 +1,24 @@
+- Some of the popular jQuery Effects
+			- Basic 
+				- hide()
+				- show()
+				- toggle()
+				Ex: 
+
+			- Sliding Effects 
+				- slideUp()
+				- slideDown()
+				- slideToggle()
+				Ex: 
+
+			- Fadding Effects 
+				- fadeIn()
+				- fadeOut()
+				- fadeToggle()
+				Ex: 
+
+			- Custom 
+				- delay()
+				- stop()
+				- animate()
+				Ex: 
